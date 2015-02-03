@@ -1,0 +1,48 @@
+<div id="bottom">
+  <div class="container">
+     <div class="widget no-margin-left">
+       <h4>关于本站</h4>
+       <div class="content">
+	   	 <!--#include file="/inc/aboutus.shtml"-->
+       </div>
+    </div> <!-- End Widget -->
+    
+    <div class="widget">
+       <h4>友情链接</h4>
+       <ul>
+		 <!--#include file="/inc/links.shtml"-->
+       </ul>
+    </div> <!-- End Widget -->
+    
+    <div class="widget">
+       <h4>快速导航</h4>
+      <ul>
+       <li>
+        <p><a href="http://www.miitbeian.gov.cn/">闽ICP备14013378号-2</a></p>
+       </li>
+      </ul>
+    </div> <!-- End Widget -->
+    
+    <div class="widget">
+       <h4>关注我们</h4>
+      
+      <ul id="flickr-gallery">
+        <li><wb:follow-button uid="7772003" type="red_1" width="67" height="24" ></wb:follow-button></li>
+      </ul>
+    </div> <!-- End Widget -->
+    
+    <div class="clear"></div>
+   
+  </div> <!-- End Container -->
+ </div>
+
+<div id="footer">
+    <div class="container">
+        <p class="pull-left">
+        Copyright 2014 806677.COM&nbsp;&nbsp;|&nbsp;&nbsp;All Rights Reserved&nbsp;&nbsp;|&nbsp;&nbsp;
+        <a href="/contact" target="_blank" title="联系方式">联系方式</a>
+        &nbsp;&nbsp;|&nbsp;&nbsp;
+        <a href="http://www.miitbeian.gov.cn/">闽ICP备14013378号-2</a>
+        </p>
+    </div>
+</div>

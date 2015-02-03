@@ -1,0 +1,7 @@
+.pagination{}
+.pagination li{display:inline-block;*zoom:1;*display:inline;border:1px solid #CCC;*margin:0 3px;height:30px;line-height:30px;}
+.pagination li.active{background-color:#2063ba;}
+.pagination li a{display:inline-block;*zoom:1;*display:inline;color:#333;padding:0px 10px;height:30px;line-height:30px;}
+.pagination li.active a{color:#fff;}
+.pagination li.inputpage div{display:inline-block;}
+.pagination li.inputpage input{height:22px;padding:0px;font-size:14px;}

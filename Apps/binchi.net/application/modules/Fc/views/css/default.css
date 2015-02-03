@@ -1,0 +1,30 @@
+html{margin:0;padding:0;}
+body {background-color:#efefef;margin:0;padding:0;font: 12px/1.5 Microsoft YaHei,Tahoma,Helvetica,'SimSun',sans-serif;color: #333;}
+div,p,h1,h2,h3,h4,h5,ul,dl,li,i,img{margin:0;padding:0;border:0;}
+input, textarea, keygen, select, button {margin:0;padding:0;font:-webkit-small-control;color:initial;letter-spacing:normal;word-spacing:normal;text-transform:none;text-indent:0px;text-shadow:none;display:inline-block;}
+li{list-style:none;}
+a{text-decoration:none;color:#333;}
+a:hover{text-decoration:underline;}
+
+.hide{display:none;}
+
+.container{width:100%;margin:0px auto;}
+#loading{position:absolute;left:0;top:0;width:100%;height:100%;z-index:99;background:#666;opacity:0.8;text-align:center;line-height:200px;font-size:24px;color:#FFF}
+
+#tabs{line-height:30px;margin:0 auto;width:292px;margin-top:5px;text-align:center;}
+#tabs ul{height:62px;}
+#tabs li{display:inline-block;padding:0 10px;width:50px;text-align:center;}
+#tabs li span{cursor:pointer;}
+#tabs li i{display:block;width:32px;height:32px;margin:0 auto;cursor:pointer;}
+#tabs li .house{background:url(http://ww3.sinaimg.cn/large/005VaPhhgw1eocvvfyuqbg302q01s0sk.gif) 0 -33px;}
+#tabs li .building{background:url(http://ww3.sinaimg.cn/large/005VaPhhgw1eocvvfyuqbg302q01s0sk.gif) -33px -33px;}
+#tabs li .shop{background:url(http://ww3.sinaimg.cn/large/005VaPhhgw1eocvvfyuqbg302q01s0sk.gif) -66px -33px;}
+#tabs li .newAdd{background:url(http://ww1.sinaimg.cn/large/005VaPhhgw1eog3shd5uej300w00w741.jpg) -66px -33px;}
+
+#tabs li .house.on{background:url(http://ww3.sinaimg.cn/large/005VaPhhgw1eocvvfyuqbg302q01s0sk.gif) 0 0;}
+#tabs li .building.on{background:url(http://ww3.sinaimg.cn/large/005VaPhhgw1eocvvfyuqbg302q01s0sk.gif) -33px 0;}
+#tabs li .shop.on{background:url(http://ww3.sinaimg.cn/large/005VaPhhgw1eocvvfyuqbg302q01s0sk.gif) -66px 0;}
+
+
+
+/*@media (max-width: 480px)*/

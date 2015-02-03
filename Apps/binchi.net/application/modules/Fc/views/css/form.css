@@ -1,0 +1,16 @@
+#form{width:100%;margin:0 auto;overflow:hidden;}
+#pics{margin:0 auto;padding:5px;background-color:#CCC;text-align:center;height:90px;overflow:hidden;}
+#pics:after{clear:both;}
+#pics li{margin:0 auto;width:90px;height:90px;}
+#pics li img{width:90px;height:90px;}
+#chooseImage{background-color:#54BCDF;}
+#chooseImage img{width:90px;height:90px;}
+form{line-height:35px;}
+label{display:inline-block;width:80px;text-align:right;letter-spacing:18px;}
+label.minispacing{letter-spacing:3px;padding-right:15px;width:65px;}
+input,select {padding:5px 8px;width:200px;}
+
+hgroup{display:table;margin:5px 10px;padding:0 5px;border-collapse:collapse;border:1px solid #999;}
+hgroup div{display:table-row;border-collapse:collapse;border:1px solid #999;}
+.hx input{text-align:center;width:18px;}
+button{letter-spacing:18px;padding:5px 0px 5px 18px;font-size:16px;}

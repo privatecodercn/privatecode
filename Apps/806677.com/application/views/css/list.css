@@ -1,0 +1,6 @@
+/* CSS Document */
+
+#main .list{}
+#main .list li{padding-left:10px;;padding-bottom:10px;margin-bottom:10px;border-bottom:1px dashed #999;}
+#main .list li a{font-size:14px;}
+#main .list li span{display:inline-block;float:right;color:#999;}

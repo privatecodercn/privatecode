@@ -1,0 +1,7 @@
+<xml>
+<ToUserName><![CDATA[oEAM8tx_SXinZql-_bAmwvOFNR4s]]></ToUserName>
+<FromUserName><![CDATA[gh_e9bc4322071f]]></FromUserName>
+<CreateTime>1421133878</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[这是测试文本消息回复！]]></Content>
+</xml>

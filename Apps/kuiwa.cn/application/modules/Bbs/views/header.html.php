@@ -1,0 +1,1 @@
+<?php include Yaf_Registry::get('config')->application->viewPath.'/header.html.php';?>

@@ -1,0 +1,62 @@
+{
+    "button": [
+        {
+            "name": "房源中心",
+            "sub_button": [
+                {
+                    "type": "view",
+                    "name": "二手房",
+                    "url": "http://binchi.net/fc/house/sale",
+                    "sub_button": []
+                },
+                {
+                    "type": "view",
+                    "name": "出租房",
+                    "url": "http://binchi.net/fc/house/rent",
+                    "sub_button": []
+                },
+                {
+                    "type": "view",
+                    "name": "我要买房",
+                    "url": "http://binchi.net/fc/house/buy",
+                    "sub_button": []
+                },
+                {
+                    "type": "view",
+                    "name": "我要租房",
+                    "url": "http://binchi.net/fc/house/qz",
+                    "sub_button": []
+                },
+                {
+                    "type": "view",
+                    "name": "找客户",
+                    "url": "http://binchi.net/fc/customer/index",
+                    "sub_button": []
+                }
+            ]
+        },
+        {
+            "name": "客服中心",
+            "sub_button": [
+                {
+                    "type": "view",
+                    "name": "联系我们",
+                    "url": "http://binchi.net/fc/feedback/index",
+                    "sub_button": []
+                },
+                {
+                    "type": "view",
+                    "name": "中介合作",
+                    "url": "http://binchi.net/fc/agent/cooperation",
+                    "sub_button": []
+                },
+                {
+                    "type": "view",
+                    "name": "曝光台",
+                    "url": "http://binchi.net/fc/agent/cooperation",
+                    "sub_button": []
+                }
+            ]
+        }
+    ]
+}

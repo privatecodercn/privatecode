@@ -1,0 +1,9 @@
+<xml>
+    <ToUserName><![CDATA[gh_7e95a09d61c5]]></ToUserName>
+    <FromUserName><![CDATA[o_2Nssx0QGvqLm8_qfqwBW_zweZc]]></FromUserName>
+    <CreateTime>1421718920</CreateTime>
+    <MsgType><![CDATA[event]]></MsgType>
+    <Event><![CDATA[CLICK]]></Event>
+    <EventKey><![CDATA[LOGIN_BIND]]></EventKey>
+    <Encrypt><![CDATA[jDRj9MmOmuzX2BTzUXWZfkHTOCDp79LCfIaDmB/ybZHOI2ZIKnb9yPasazzKf7qssbW21tUDRS7TL1OQwO4f8OhSVsvMKwpgStfn9oMsMRoAy6+hCx3bZs8t2Fmy/9EGNA8F0CmsEcz0y7sEdVVlJo0//hZK7RTaYDUEOFYiGwNE6XV0zjsVw2+1c2VGSp7Nbq+SD5QMlBPGinex4WtxVEQV32iz6sZ3Vby+vhMwCGW+zqmydMSvEeZJVv38DBd8DXG11VtxzNJufIFwgCn+AWaicJBdcBGnWWNo2PVpMfHMkT4ZoWbiyzgcwnptLvsM82gnHhD90ovJCSMqXIvPQGFIFilncilCRjvYFVRi8GirQy7smq01mSOT18oGk0KGL9P0XewRiItbvXNxrfMvSCo3K7sex+rvI4epczQhfnv6Jfq0vCjtULzhQpORM8u5MUywWwuaJKtcSCMo9S6p9Q==]]></Encrypt>
+</xml>
